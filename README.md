@@ -1,5 +1,7 @@
 # Cyber Security Quiz App for Senior Citizens
 
+Demo: https://itsvinayak.github.io/cyber_security_quiz/
+
 <div align="center">
 <img width="400" src="https://github.com/user-attachments/assets/450df013-9bb8-4466-ab07-8046a2be04e3">
 </div>
